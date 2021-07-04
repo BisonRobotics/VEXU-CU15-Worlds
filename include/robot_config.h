@@ -1,6 +1,8 @@
 #include "api.h"
 using namespace pros;
 
+extern Controller joystick;
+
 extern Motor driveLeft;
 extern Motor driveRight;
 
